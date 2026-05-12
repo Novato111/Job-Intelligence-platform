@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Mac
+.DS_Store
+
+# Build folders
+dist/
+build/
+
+# Logs
+logs/
+*.log
